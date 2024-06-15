@@ -24,3 +24,7 @@ To-do list planner for planning your daily tasks. List your task at one place.
 - open cloned folder into VSCode.
 - Install 'Live Server' extension into VSCode.
 - At the botttom of your right hand you will see an option 'Go Live' Click there and done.
+
+# Link To Project
+
+[https://nikhilesh-927.github.io/To-Do-List-Planner/](https://nikhilesh-927.github.io/To-Do-List-Planner/)
